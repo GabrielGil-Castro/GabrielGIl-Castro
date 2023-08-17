@@ -2,6 +2,9 @@
 
 ## About Me
 
+A Full Stack Developer with knowledge in Node.js, JavaScript/ Typescript, React.js, 
+with experience working in groups with agile methodologies such as Kanban and Scrum.
+
 As a native of the region of Rio de Janeiro, I have always been passionate about exploring the world around me. Before obtaining a Bachelor's degree in Social Science, I spent years honing my craft in theater, which has given me a unique perspective on the human experience. My insatiable curiosity has led me to explore a range of subjects, from art to technology passing by social ciences. I am always eager to learn and to engage with new challenges, and I believe that my diverse background makes me well-suited to a wide range of opportunities.
 
 - 🌱 Currently, I'm exploring JavaScript/ Typescript, Front-End and Back-End languages, React.js, Node.js, RTL, POO.
@@ -13,8 +16,6 @@ As a native of the region of Rio de Janeiro, I have always been passionate about
 When I'm not coding, you can find me exploring the world or sharing my experiences on social media:
 
 - [LinkedIn](https://www.linkedin.com/in/gabriel-gil-de-castro/)
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielGil-Castro)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
 
 ## Topics of Interest
 
