@@ -1,48 +1,36 @@
-# HELLO EVERYBODY!
+# Gabriel Gil de Castro
 
-## About Me
+Full Stack Developer & IT Support | Node.js · React · Python · Docker
 
-A Full Stack Developer with knowledge in Node.js, JavaScript/ Typescript, React.js, 
-with experience working in groups with agile methodologies such as Kanban and Scrum.
+Currently working as IT Support at Olfir Rogêdo Contabilidade, 
+where I handle technical support, ticket management (GLPI), 
+and process automation with Python and n8n.
 
-As a native of the region of Rio de Janeiro, I have always been passionate about exploring the world around me. Before obtaining a Bachelor's degree in Social Science, I spent years honing my craft in theater, which has given me a unique perspective on the human experience. My insatiable curiosity has led me to explore a range of subjects, from art to technology passing by social ciences. I am always eager to learn and to engage with new challenges, and I believe that my diverse background makes me well-suited to a wide range of opportunities.
+## Live Projects
 
-- 🌱 Currently, I'm exploring JavaScript/ Typescript, Front-End and Back-End languages, React.js, Node.js, MySql, RTL, POO.
-- 📚 I'm learning more about Agile methodologies, Java and Python.
+- **[Sistema de Controle de Ponto](https://app-ponto-frontend.vercel.app)** — 
+Full stack time-tracking app with JWT auth, admin panel and CRUD. 
+Stack: Node.js + Express + MySQL + React + Docker
 
+- **[Vertical Trust](https://getverticaltrust.com)** — 
+SaaS platform for climbing route safety management. 
+Stack: React + Node.js + Prisma + PostgreSQL + Docker
 
-## Find-me Online
+## Stack
 
-When I'm not coding, you can find me exploring the world or sharing my experiences on social media:
+**Backend:** Node.js · Express · Prisma · Sequelize · MySQL · PostgreSQL · JWT · REST API  
+**Frontend:** React · Vite · Axios · CSS Modules  
+**Infra:** Docker · Railway · Vercel · VPS · SSH · GitHub Actions  
+**Automation:** Python · n8n  
+**Support:** GLPI · AnyDesk · Linux · Windows  
 
-[![LinkedIn Badge](https://img.shields.io/badge/-[Linkedin]-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/gabriel-gil-de-castro/])]([https://www.linkedin.com/in/gabriel-gil-de-castro/])
+## Education
 
-## Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="80" heigth="80"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-plain.svg" width="80" heigth="80"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80" heigth="80" background-color:white/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" heigth="80"/>
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
-          
+- Software Engineering — Estácio *(in progress)*
+- Full Stack Web Development — Trybe *(2023)*
 
-## Topics of Interest
+## Contact
 
-Here are some of the topics I'm interested in and currently focused on:
-
-- Technology
-- Programming Language
-- Mobile App Development
-- Software Architecture
-
-Feel free to get in touch or connect if we share similar interests or if you'd like to discuss an exciting project!
-
----
+[LinkedIn](https://linkedin.com/in/gabriel-gil-de-castro) · 
+[Portfolio](https://gabriel-gil-portifolio.vercel.app) · 
+gildecastro.g@gmail.com
